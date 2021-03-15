@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krishchadha94
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginer python projects
+- 💞️ I’m looking to collaborate on beginner python projects
 - 📫 How to reach me krishchadha94@gmail.com
 
 <!---
