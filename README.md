@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishchadha94
+- 👋 Hi, I’m Krish Chadha
 - 👀 I’m interested in DevSecOps/ Cloud/ BugBounty
 - 📫 How to reach me krishchadha94@gmail.com
 
